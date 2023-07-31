@@ -6,9 +6,9 @@
     --branco: #ffffff;
     --laranja: #EB9B00;
     --preto: #000000;
-    --azul-degrade: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
+    --azul-degrade: linear-gradient(97.54deg, #521d1d 35.49%, #326589 165.37%);
     --font-family: "Poppins";
-    --azul: #002F52;
+    --azul: #521500;
     --fonte-secundario: "Josefin Sans";
 
 }
